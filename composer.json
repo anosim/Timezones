@@ -1,6 +1,6 @@
 {
     "name": "anosim/timezones",
-    "description": "some description here",
+    "description": "some description here for anosim timezones",
     "require": {
         "laravel/laravel": "^5.3"
     },
