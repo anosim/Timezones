@@ -1,0 +1,8 @@
+{
+    "name": "codesgo/timezones",
+    "description": "some description here",
+    "require": {
+        "laravel/laravel": "^5.3"
+    },
+    "minimum-stability": "dev"
+}
