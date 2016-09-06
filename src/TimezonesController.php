@@ -1,6 +1,6 @@
 <?php
 
-namespace Codesgo\Timezones;
+namespace Anosim\Timezones;
 
 use App\Http\Controllers\Controller;
 use Carbon\Carbon;

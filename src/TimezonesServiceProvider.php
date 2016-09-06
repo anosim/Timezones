@@ -1,6 +1,6 @@
 <?php
 
-namespace Codesgo\Timezones;
+namespace Anosim\Timezones;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -25,7 +25,7 @@ class TimezonesServiceProvider extends ServiceProvider
 	{
 
 		include __DIR__.'/routes.php';
-		$this->app->make('Codesgo\Timezones\TimezonesController');
+		$this->app->make('Anosim\Timezones\TimezonesController');
 
 	}
 }

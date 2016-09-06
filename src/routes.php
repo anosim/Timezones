@@ -1,4 +1,4 @@
 <?php
 
 Route::get('timezones/{timezone}', 
-  'codesgo\timezones\TimezonesController@index');
+  'anosim\timezones\TimezonesController@index');
